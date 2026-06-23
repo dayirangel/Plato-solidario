@@ -1,15 +1,17 @@
 # 🍽️ Plato Solidario
 
-**Plataforma tecnológica de logística social y distribución de raciones subsidiadas**
+**Plataforma tecnológica de logística social y distribución de raciones de almuerzo no reclamadas**
 
 Proyecto de investigación — Ingeniería de Software 1
 Universidad de Pamplona | Facultad de Ingenierías y Arquitectura
 
 ## 📋 Descripción
 
-Plato Solidario es la especificación de una plataforma tecnológica (app móvil + panel web) que **intercepta y redistribuye en tiempo real** las raciones de almuerzo subsidiadas que no son reclamadas en el comedor universitario, evitando el desperdicio de alimentos y maximizando el aprovechamiento de los recursos.
+Plato Solidario es la especificación de una plataforma tecnológica (app móvil + panel web) que **intercepta y redistribuye en tiempo real** las raciones de almuerzo **ya adquiridas por estudiantes** que, por algún motivo, no pueden ir a reclamarlas ese día.
 
-El sistema opera bajo una **ventana crítica de 30 minutos** (2:00 PM – 2:30 PM), liberando automáticamente el inventario sobrante y permitiendo que los estudiantes reserven una ración bajo política *First-Come, First-Served* (FCFS), validando la entrega mediante códigos QR dinámicos con expiración controlada.
+En lugar de que esa ración se pierda, el sistema la pone a disposición de otro estudiante que ese día **no cuenta con almuerzo**. Es un modelo de solidaridad entre la misma comunidad estudiantil: quien pagó su servicio pero no lo usa un día, le da la oportunidad a otro de aprovecharlo.
+
+El sistema opera bajo una **ventana crítica de 30 minutos** (2:00 PM – 2:30 PM), liberando automáticamente el inventario de raciones no reclamadas y permitiendo que los estudiantes interesados reserven una bajo política *First-Come, First-Served* (FCFS), validando la entrega mediante códigos QR dinámicos con expiración controlada.
 
 ## ✨ Características principales
 
