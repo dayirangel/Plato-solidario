@@ -38,7 +38,7 @@ El sistema sigue un modelo de contenedores (C4) compuesto por:
 
 ## 📄 Contenido del repositorio
 
-- [`PlatoSolidario_SOFT.pdf`](./PlatoSolidario_SOFT.pdf) — Documentación completa del proyecto: SRS, SAD, diseño, diccionario de datos, plan de pruebas y bibliografía.
+- [`PlatoSolidario_SOFT.pdf`](./PlatoSolidario_FINAL.pdf) — Documentación completa del proyecto: SRS, SAD, diseño, diccionario de datos, plan de pruebas y bibliografía.
 
 ## 📚 Documentos incluidos
 
